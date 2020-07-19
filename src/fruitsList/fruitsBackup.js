@@ -1,3 +1,5 @@
+//Backup
+
 const fruitsList = [
   {
     genus: "Malus",
@@ -51,7 +53,7 @@ const fruitsList = [
     genus: "Prunus",
     name: "Cherry",
     urlImage:
-      "https://lh3.googleusercontent.com/proxy/wx20MUr0dVki_xTis6PzzmOgCUExZa6bczM1KOTPGwkCEAE4Ydxb6AAHIvya5NjWX99VJODKR49-dacxn7FhVqO6X6vjL9xSrwUWys1l4q1v9ji2otImEINxjyFdjOE",
+      "https://triblive.com/wp-content/uploads/2019/08/1561312_web1_gtr-liv-cherries-02-082119.jpg",
     id: 9,
     family: "Rosaceae",
     order: "None",
@@ -66,6 +68,8 @@ const fruitsList = [
   {
     genus: "Citrus",
     name: "Lemon",
+    urlImage:
+      "https://i5.walmartimages.ca/images/Enlarge/094/504/6000200094504.jpg",
     id: 26,
     family: "Rutaceae",
     order: "Sapindales",
@@ -80,6 +84,8 @@ const fruitsList = [
   {
     genus: "Mangifera",
     name: "Mango",
+    urlImage:
+      "https://befreshcorp.net/wp-content/uploads/2017/07/product-packshot-mango.jpg",
     id: 27,
     family: "Anacardiaceae",
     order: "Sapindales",
@@ -94,6 +100,8 @@ const fruitsList = [
   {
     genus: "Citrus",
     name: "Orange",
+    urlImage:
+      "https://fruitguys.co.il/wp-content/uploads/2019/11/Screenshot_2019-11-04-18-41-33-402-324x324.jpeg",
     id: 2,
     family: "Rutaceae",
     order: "Sapindales",
@@ -108,6 +116,8 @@ const fruitsList = [
   {
     genus: "Pyrus",
     name: "Pear",
+    urlImage:
+      "https://4.imimg.com/data4/UA/CL/ANDROID-46992190/product-500x500.jpeg",
     id: 4,
     family: "Rosaceae",
     order: "Rosales",
@@ -122,6 +132,7 @@ const fruitsList = [
   {
     genus: "Ananas",
     name: "Pineapple",
+    urlImage: "https://www.planetorganic.com/images/products/large/1874.jpg",
     id: 10,
     family: "Bromeliaceae",
     order: "Poales",
@@ -136,6 +147,8 @@ const fruitsList = [
   {
     genus: "Rubus",
     name: "Raspberry",
+    urlImage:
+      "https://cdn.shopify.com/s/files/1/2971/2126/products/Raspberry_ed3f1df5-030e-4999-ab05-732f0c679196_2000x.jpg?v=1594159460",
     id: 23,
     family: "Rosaceae",
     order: "Rosales",
@@ -150,6 +163,8 @@ const fruitsList = [
   {
     genus: "Fragaria",
     name: "Strawberry",
+    urlImage:
+      "https://befreshcorp.net/wp-content/uploads/2017/07/product-packshot-strawberrie-558x600.jpg",
     id: 3,
     family: "Rosaceae",
     order: "Rosales",
@@ -164,6 +179,8 @@ const fruitsList = [
   {
     genus: "Solanum",
     name: "Tomato",
+    urlImage:
+      "https://media.istockphoto.com/photos/tomato-isolated-on-white-background-picture-id466175630?k=6&m=466175630&s=612x612&w=0&h=fu_mQBjGJZIliOWwCR0Vf2myRvKWyQDsymxEIi8tZ38=",
     id: 5,
     family: "Solanaceae",
     order: "Solanales",
@@ -178,6 +195,8 @@ const fruitsList = [
   {
     genus: "Citrullus",
     name: "Watermelon",
+    urlImage:
+      "https://images-na.ssl-images-amazon.com/images/I/41T-2IipYVL.jpg",
     id: 25,
     family: "Cucurbitaceae",
     order: "Cucurbitales",
